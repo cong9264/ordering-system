@@ -1,5 +1,5 @@
 <template>
-  <div class="upload-food">上传菜品</div>
+  <div class="order-management">订单管理</div>
 </template>
 
 <script>
